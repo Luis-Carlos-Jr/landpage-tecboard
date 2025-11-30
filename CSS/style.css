@@ -33,6 +33,8 @@
     h1{
         font-family: 'Unbounded';
         font-size: 64px;
+        margin: 60px auto 24px;
+        text-align: center;
     }
 
     h1 span{
