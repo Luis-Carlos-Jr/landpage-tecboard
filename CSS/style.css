@@ -49,4 +49,16 @@
 
     a{
         color: #ffffff;
+        text-decoration: none;
+        display: block;
+        text-align: center;
+        margin: 40px auto;
+        line-height: 66px;
+        width: 340px;
+        background-color: #9747FF;
+        border-radius: 36px;
+    }
+
+    a:hover{
+        background-color: #8233E8;
     }
