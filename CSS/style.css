@@ -26,6 +26,10 @@
         font-size: 24px;
     }
 
+    header{
+        margin: 65px 0 auto 360px;
+    }
+
     h1{
         font-family: 'Unbounded';
         font-size: 64px;
