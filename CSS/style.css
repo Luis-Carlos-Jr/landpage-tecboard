@@ -62,3 +62,10 @@
     a:hover{
         background-color: #8233E8;
     }
+
+    section img{
+        width: 792px;
+        height: 446px;
+        margin: 0 auto;
+        display: block;
+    }
